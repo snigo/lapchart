@@ -194,6 +194,10 @@ body {
         0 0 64px 4px #00f2a620;
     }
   }
+
+  @media screen and (max-width: 414px) {
+    padding: 0 1.5em;
+  }
 }
 
 .stopwatch-chart {
@@ -216,6 +220,12 @@ body {
 
 .stopwatch-chart-open {
   height: 240;
+}
+
+.stopwatch-laps-row {
+  @media screen and (max-width: 414px) {
+    padding: 0 0.5em;
+  }
 }
 
 .stopwatch-laps-row {
