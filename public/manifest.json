@@ -1,0 +1,42 @@
+{
+  "name": "Lapchart - smart stopwatch",
+  "short_name": "Lapchart",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#143b63",
+  "theme_color": "#fee903",
+  "description": "Smart stopwatch app that keeps track of your laps and visualises your progress.",
+  "icons": [
+    {
+      "src": "images/stopwatch-icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "images/stopwatch-icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/stopwatch-icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "images/stopwatch-icon-167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "images/stopwatch-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/stopwatch-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
