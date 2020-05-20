@@ -91,7 +91,7 @@ const Index = () => {
         </div>
         <div className={`stopwatch-chart stopwatch-chart-${(!running && time !== 0) ? 'open' : 'idle'}`}>
           {
-            (!running && time !== 0) && (
+            (!running && time !== 0 && laps.length > 1) && (
               <LineChart
                 width={360}
                 height={240}
