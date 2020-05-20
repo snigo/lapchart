@@ -16,7 +16,7 @@ const Lapchart = ({ Component, pageProps }) => (
       <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
       <meta name="msapplication-starturl" content="/" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <link rel="icon" type="image/svg+xml" href="/images/stopwatch-icon.svg" />
+      <link rel="icon" type="image/svg+xml" href="/images/stopwatch.svg" />
       <link rel="alternate icon" href="/images/stopwatch-icon-32.png" />
       <link rel="icon" sizes="128x128" href="/images/stopwatch-icon-128.png" />
       <link rel="apple-touch-icon" sizes="128x128" href="/images/stopwatch-icon-128.png" />
