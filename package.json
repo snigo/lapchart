@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/snigo/lapchart#readme",
   "dependencies": {
-    "next": "^15.0.0",
+    "next": "^16.0.0",
     "next-offline": "^5.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
